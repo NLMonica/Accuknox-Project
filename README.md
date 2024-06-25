@@ -1,6 +1,6 @@
 API for social networking application using Django Rest Framework
 
-This api has fucntions like login, create user, add friend, update profile, check friendlist, accept friend, check friendlist etc.
+This api has functions like login, create user, add friend, update profile, check friendlist, accept friend, check friendlist etc.
 The api consists of serializers to handle serializing the data for many functionalities.
 
 For user authentication,
